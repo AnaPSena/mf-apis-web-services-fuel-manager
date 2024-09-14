@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disble</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>mf_apis_web_services_fuel_manager</RootNamespace>
   </PropertyGroup>
