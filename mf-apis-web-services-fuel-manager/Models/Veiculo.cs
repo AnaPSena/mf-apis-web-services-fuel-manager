@@ -15,7 +15,7 @@ namespace mf_apis_web_services_fuel_manager.Models
         public string Modelo { get; set; }
         [Required]
         public string Placa { get; set; }
-        [Required]
+        [Required]  
         public int AnoFabricacao { get; set; }
         [Required]
         public int AnoModelo { get; set; }
